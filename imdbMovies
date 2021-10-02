@@ -1,0 +1,6 @@
+var imdbMovies = ["Les Évadés", "Le Parrain", "Le Parrain, 2ᵉ partie", "The Dark Knight : Le Chevalier noir", " 12 Hommes en colère", "La liste de Schindler", " Le Seigneur des anneaux : Le Retour du roi (2003)", "Pulp Fiction", "Le Seigneur des anneaux : La Communauté de l'anneau"]
+
+for (var i = 0; i < imdbMovies.length; i += 1) {
+  console.log (imdbMovies[i]);
+}
+  
